@@ -13,7 +13,7 @@
 - JS Logic
 
 ## Note:
-- <%= %> → Display the data in HTML (escaped / aman)
+- <%= %> → Display the data in HTML (escaped)
 - <%- %> → Display HTML directly (unescaped)
 - <% %> → Run JavaScript without show the value
 - EJS can be using if/else, looping, and include partial file
